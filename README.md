@@ -242,4 +242,4 @@ This repository serves as the official landing page for Anti-Porn. The software 
 **Get the most recent version of Anti-Porn today!**
 
 ---
-**Last updated:** 2026-09-09 14:55:45 UTC
+**Last updated:** 2026-09-09 18:13:32 UTC
